@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 
+import {CountdownModule} from 'ngx-countdown';
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
